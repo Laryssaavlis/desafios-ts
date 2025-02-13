@@ -1,0 +1,19 @@
+{
+  "name": "desafios-ts",
+  "version": "1.0.0",
+  "description": "quatro desafios, onde tive que achar a solução em Ts pra melhorar o código.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laryssaavlis/desafios-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laryssaavlis/desafios-ts/issues"
+  },
+  "homepage": "https://github.com/Laryssaavlis/desafios-ts#readme"
+}
